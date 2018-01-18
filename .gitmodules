@@ -1,0 +1,3 @@
+[submodule "vue-submoduled-routing-common"]
+	path = vue-submoduled-routing-common
+	url = https://github.com/robbiemu/vue-submoduled-routing-common.git
